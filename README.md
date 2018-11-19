@@ -3,7 +3,7 @@ A simple, lightweight Remote Access Tool written in Python
 
 Apollo is a cross-platform (Windows, Linux, FreeBSD & MacOS) Remote Access Tool written in Python. Its features are currently very basic but allow for post-exploitation remote code execution as well as obtaining information on the client system and reporting it back to the Command & Control server.
 
-## Feature
+## Features
  * Capability to control multiple clients at once
  * Cross-platform (Windows, Linux, FreeBSD and macOS)
  * AES-256 encrypted C2 with D-H exchange
