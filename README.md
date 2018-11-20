@@ -18,4 +18,5 @@ Apollo is a cross-platform (Windows, Linux, FreeBSD & MacOS) Remote Access Tool 
 ## Wiki
 * [Supported Commands](https://github.com/apacketofsweets/Apollo/wiki/Commands)
 * [Build a stand-alone executable](https://github.com/apacketofsweets/Apollo/wiki/Build-a-stand-alone-executable)
+* [Requirements](https://github.com/apacketofsweets/Apollo/wiki/Requirements)
 * [Disclaimer](https://github.com/apacketofsweets/Apollo/wiki/Disclaimer)
